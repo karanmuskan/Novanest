@@ -1,1 +1,1 @@
-# Novanest
+mkdir NovaNest && cd NovaNest && mkdir images && curl -o index.html https://raw.githubusercontent.com/your-repo/NovaNest/main/index.html && curl -o about.html https://raw.githubusercontent.com/your-repo/NovaNest/main/about.html && curl -o terms.html https://raw.githubusercontent.com/your-repo/NovaNest/main/terms.html && curl -o product.html https://raw.githubusercontent.com/your-repo/NovaNest/main/product.html && curl -o README.md https://raw.githubusercontent.com/your-repo/NovaNest/main/README.md
